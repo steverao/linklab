@@ -6,7 +6,7 @@ In response to the first problem, this system uses a unified programming languag
 
 When users perform IoT experiments in the linklab system, they only need to use a unified programming language to write the IoT applications that they need to develop. The platform will compile the code in the cloud and burn it into specific hardware in uDevice Center. linklab makes traditional IoT application development as easy as software development. The linklab architecture diagram is shown below.
 
-<div align="center"><img src="document-illustration/linklab-architecture.png" width="100%"/></div>
+<div align="center"><img src="document-illustration/linklab-architecture.png" width="80%"/></div>
 
 
 
@@ -16,15 +16,15 @@ Next, a simple demonstration of the function of the system.
 
 - Log in to the system and enter the experiment page.
 
-  <div align="center"><img src="document-illustration/experiment-page .png" width="100%"/></div>
+  <div align="center"><img src="document-illustration/experiment-page .png" width="90%"/></div>
 
 - Select an IoT experiment, read the temperature from the temperature sensor and display it on the terminal.
 
-  <div align="center"><img src="document-illustration/temperature-experiment.png" width="100%"/></div>
+  <div align="center"><img src="document-illustration/temperature-experiment.png" width="90%"/></div>
 
 - Upload the code to the cloud for compilation, and then burn the compiled code into the temperature sensor device in uDevice Center.
 
-  <div align="center"><img src="document-illustration/result.png" width="80%"/></div>
+  <div align="center"><img src="document-illustration/result.png" width="70%"/></div>
 
 
 
@@ -34,5 +34,5 @@ Next, a simple demonstration of the function of the system.
 
 
 - Completed the test tasks of the teaching experiment module of the LinkLab and wrote a testing report.
-- Plan to participate in the optimization part of code cloud compilation.
-- Plan to participate in the editor with intelligent code hinting.
+- Plan to participate in the optimization part of code cloud compilation later.
+- Plan to participate in the editor with intelligent code hinting later.
