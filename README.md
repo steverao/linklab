@@ -19,7 +19,7 @@ When users perform IoT experiments in the LinkLab, they only need to use a unifi
 <tr>
 
 <td><b>uDevice Center</b></td>
-<td><a href="<https://github.com/alibaba/AliOS-Things/wiki/uDevice-Center>"uDevice Center</a></td>
+<td><a href="https://github.com/alibaba/AliOS-Things/wiki/uDevice-Center">uDevice Center</a></td>
 
   </tr>
 
